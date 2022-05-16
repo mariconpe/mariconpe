@@ -4,4 +4,4 @@
 
 - I'm currently studying Computer Engineering at UFBA 👩🏻‍🎓
 - I'm learning Python, HTML, CSS and JavaScript 📘
-- I'm a trainee at [TITAN] (https://titanci.com.br/) 💻
+- I'm a trainee at [TITAN](https://titanci.com.br/) 💻
