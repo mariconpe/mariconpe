@@ -1,4 +1,6 @@
-### Hi there! My name is Marina 😺
+# Hi there! My name is Marina 😺
+
+## Sobre mim
 
 - I'm currently studying Computer Engineering at UFBA 👩🏻‍🎓
 - I'm learning Python, HTML, CSS and JavaScript 📘
