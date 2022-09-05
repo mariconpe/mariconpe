@@ -5,7 +5,7 @@
 **About me:**
 - 👩🏻‍🎓 I'm a Computer Engineering student at UFBA
 - ⚙️ Flutter | Python | JavaScript| NodeJS | React
-- 💻 I'm a member of Software Development [Junior Enterprise](https://en.wikipedia.org/wiki/Junior_enterprise) [TITAN](https://titanci.com.br/) 
+- 💻 I'm a Full Stack Developer at [Crosoften](https://crosoften.com) 
 - 📫 Reach me @ [linkedIn](https://www.linkedin.com/in/mariconpe)
 
 **Languages and tools:**
