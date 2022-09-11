@@ -5,7 +5,6 @@
 **About me:**
 - 👩🏻‍🎓 I'm a Computer Engineering student at UFBA
 - ⚙️ Flutter | Python | JavaScript| NodeJS | React
-- 💻 I'm a Full Stack Developer at [Crosoften](https://crosoften.com) 
 - 📫 Reach me @ [linkedIn](https://www.linkedin.com/in/mariconpe)
 
 **Languages and tools:**
