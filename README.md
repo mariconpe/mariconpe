@@ -4,8 +4,7 @@
 
 **About me:**
 - 👩🏻‍🎓 I'm a Computer Engineering student at UFBA
-- ⚙️ Flutter | Python | JavaScript| NodeJS | React
-- 📫 Reach me @ [linkedIn](https://www.linkedin.com/in/mariconpe)
+- ⚙️ JavaScript| Typescript | Nestjs | Python | Django
 
 **Languages and tools:**
 
